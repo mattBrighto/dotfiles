@@ -1,0 +1,43 @@
+2024/04/25-20:33:18.685 3a2 Reusing MANIFEST /home/matt/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/04/25-20:33:18.693 3a2 Recovering log #87
+2024/04/25-20:33:18.693 3a2 Reusing old log /home/matt/.config/discord/Local Storage/leveldb/000087.log 
+2024/04/25-20:35:54.500 3a3 Level-0 table #91: started
+2024/04/25-20:35:54.516 3a3 Level-0 table #91: 763607 bytes OK
+2024/04/25-20:35:54.524 3a3 Delete type=0 #87
+2024/04/25-20:37:13.291 3a3 Level-0 table #93: started
+2024/04/25-20:37:13.307 3a3 Level-0 table #93: 2294978 bytes OK
+2024/04/25-20:37:13.314 3a3 Delete type=0 #90
+2024/04/25-20:37:13.315 3a3 Compacting 4@0 + 2@1 files
+2024/04/25-20:37:13.330 3a3 Generated table #94@0: 11 keys, 2295438 bytes
+2024/04/25-20:37:13.348 3a3 Generated table #95@0: 110 keys, 792179 bytes
+2024/04/25-20:37:13.348 3a3 Compacted 4@0 + 2@1 files => 3087617 bytes
+2024/04/25-20:37:13.355 3a3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/04/25-20:37:13.355 3a3 Delete type=2 #91
+2024/04/25-20:37:13.355 3a3 Delete type=2 #82
+2024/04/25-20:37:13.355 3a3 Delete type=2 #85
+2024/04/25-20:37:13.355 3a3 Delete type=2 #83
+2024/04/25-20:37:13.355 3a3 Delete type=2 #88
+2024/04/25-20:37:13.355 3a3 Delete type=2 #93
+2024/04/25-20:55:20.004 3a3 Level-0 table #97: started
+2024/04/25-20:55:20.007 3a3 Level-0 table #97: 34414 bytes OK
+2024/04/25-20:55:20.009 3a3 Delete type=0 #92
+2024/04/25-21:38:24.633 3a3 Level-0 table #99: started
+2024/04/25-21:38:24.712 3a3 Level-0 table #99: 36895 bytes OK
+2024/04/25-21:38:24.719 3a3 Delete type=0 #96
+2024/04/25-22:44:49.907 3a3 Level-0 table #101: started
+2024/04/25-22:44:49.911 3a3 Level-0 table #101: 11032 bytes OK
+2024/04/25-22:44:49.913 3a3 Delete type=0 #98
+2024/04/25-23:54:20.004 3a3 Level-0 table #103: started
+2024/04/25-23:54:20.007 3a3 Level-0 table #103: 11658 bytes OK
+2024/04/25-23:54:20.009 3a3 Delete type=0 #100
+2024/04/25-23:54:20.009 3a3 Compacting 4@0 + 2@1 files
+2024/04/25-23:54:20.020 3a3 Generated table #104@0: 11 keys, 2295438 bytes
+2024/04/25-23:54:20.038 3a3 Generated table #105@0: 110 keys, 792357 bytes
+2024/04/25-23:54:20.038 3a3 Compacted 4@0 + 2@1 files => 3087795 bytes
+2024/04/25-23:54:20.040 3a3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/04/25-23:54:20.040 3a3 Delete type=2 #103
+2024/04/25-23:54:20.040 3a3 Delete type=2 #95
+2024/04/25-23:54:20.040 3a3 Delete type=2 #97
+2024/04/25-23:54:20.040 3a3 Delete type=2 #94
+2024/04/25-23:54:20.040 3a3 Delete type=2 #101
+2024/04/25-23:54:20.040 3a3 Delete type=2 #99

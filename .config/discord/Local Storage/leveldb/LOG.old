@@ -1,0 +1,6 @@
+2024/04/25-04:12:14.982 14a2 Reusing MANIFEST /home/matt/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/04/25-04:12:14.990 14a2 Recovering log #84
+2024/04/25-04:12:14.990 14a2 Reusing old log /home/matt/.config/discord/Local Storage/leveldb/000084.log 
+2024/04/25-04:14:51.452 1481 Level-0 table #88: started
+2024/04/25-04:14:51.463 1481 Level-0 table #88: 762261 bytes OK
+2024/04/25-04:14:51.466 1481 Delete type=0 #84

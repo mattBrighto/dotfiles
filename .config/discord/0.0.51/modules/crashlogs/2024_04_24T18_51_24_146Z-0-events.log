@@ -1,0 +1,45 @@
+2024-04-24T18:51:24.162Z 0: 
+
+----------------------------------------------
+2024-04-24T18:51:24.189Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.51"}, modulepath: /home/matt/.config/discord/0.0.51/modules
+2024-04-24T18:51:24.211Z 2: ✅ webContents.created web1 ""
+2024-04-24T18:51:24.220Z 3: ✅ window.created win1 "discord"
+2024-04-24T18:51:25.085Z 4: ✅ webContents.did-finish-load web1
+2024-04-24T18:51:32.218Z 5: ✅ webContents.created web2 ""
+2024-04-24T18:51:32.228Z 6: ✅ window.created win2 "Discord"
+2024-04-24T18:51:34.416Z 7: ✅ webContents.did-finish-load web2
+2024-04-24T18:51:34.489Z 8: window.close win1
+2024-04-24T18:51:34.524Z 9: webContents.destroyed web1
+2024-04-24T18:51:34.531Z 10: window.closed win1
+2024-04-25T01:18:00.462Z 11: window.close win2
+2024-04-25T02:12:15.030Z 0: 
+
+----------------------------------------------
+2024-04-25T02:12:15.043Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.51"}, modulepath: /home/matt/.config/discord/0.0.51/modules
+2024-04-25T02:12:15.053Z 2: ✅ webContents.created web1 ""
+2024-04-25T02:12:15.056Z 3: ✅ window.created win1 "discord"
+2024-04-25T02:12:15.882Z 4: ✅ webContents.did-finish-load web1
+2024-04-25T02:12:16.280Z 5: ✅ webContents.created web2 ""
+2024-04-25T02:12:16.282Z 6: ✅ window.created win2 "Discord"
+2024-04-25T02:12:19.953Z 7: ✅ webContents.did-finish-load web2
+2024-04-25T02:12:20.053Z 8: window.close win1
+2024-04-25T02:12:20.063Z 9: webContents.destroyed web1
+2024-04-25T02:12:20.064Z 10: window.closed win1
+2024-04-25T04:00:25.691Z 11: window.close win2
+2024-04-25T18:33:18.732Z 0: 
+
+----------------------------------------------
+2024-04-25T18:33:18.745Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.51"}, modulepath: /home/matt/.config/discord/0.0.51/modules
+2024-04-25T18:33:18.760Z 2: ✅ webContents.created web1 ""
+2024-04-25T18:33:18.765Z 3: ✅ window.created win1 "discord"
+2024-04-25T18:33:19.636Z 4: ✅ webContents.did-finish-load web1
+2024-04-25T18:33:19.955Z 5: ✅ webContents.created web2 ""
+2024-04-25T18:33:19.961Z 6: ✅ window.created win2 "Discord"
+2024-04-25T18:33:21.373Z 7: ✅ webContents.did-finish-load web2
+2024-04-25T18:33:21.469Z 8: window.close win1
+2024-04-25T18:33:21.479Z 9: webContents.destroyed web1
+2024-04-25T18:33:21.484Z 10: window.closed win1
+2024-04-25T19:36:27.634Z 11: ❌ webContents.nresponsive web2
+2024-04-25T19:36:49.965Z 12: ❌ webContents.nresponsive web2
+2024-04-25T19:38:04.071Z 13: ❌ webContents.nresponsive web2
+2024-04-25T22:07:01.933Z 14: window.close win2
