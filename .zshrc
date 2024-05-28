@@ -23,3 +23,5 @@ alias ls='ls --color -A'
 alias cls='clear'
 alias dwl='sudo pacman -S'
 alias pacman='sudo pacman'
+
+export PATH="/home/matt/.cargo/bin:$PATH"
