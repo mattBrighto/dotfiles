@@ -33,6 +33,10 @@ return {
           },
         },
       })
+      
+      lspconfig.rust_analyzer.setup({
+        
+      })
 
       lspconfig.lua_ls.setup({
         capabilities = capabilities,
